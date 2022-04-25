@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\bin\Debug\PD_1_CHECKERS.exe.config
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\bin\Debug\PD_1_CHECKERS.exe
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\bin\Debug\PD_1_CHECKERS.pdb
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.Form1.resources
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.Properties.Resources.resources
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.exe
+C:\Users\artem\source\repos\PD_1_CHECKERS\PD_1_CHECKERS\obj\Debug\PD_1_CHECKERS.pdb
